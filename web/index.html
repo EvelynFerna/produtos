@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luxe & Glamour</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Luxe & Glamour </h1>
+        <button onclick="window.location.href='carinho.html'">Carrinho</button>
+        </header>
+    <main>
+        <div id="produtos-container"></div>
+    </main>
+    <footer>
+        <h2>By EvelynFerna || 16/04/2025</h2>
+    </footer>
+    <div id="detalhes" class="modal oculto">
+        <div class="janela">
+            <div>
+                <h3>Detalhes do Produto</h3>
+                <button onclick="document.getElementById('detalhes').classList.add('oculto')">X</button>
+            </div>
+            <div id="conteudo"></div>
+            <button id="adicionarCarrinho" onclick="adicionarCarrinho()">Adicionar ao Carrinho</button>
+        </div>
+    </div>
+    
+    
+
+</body>
+<script src="script.js"></script>
+</html>
