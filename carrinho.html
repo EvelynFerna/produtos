@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Carrinho — Luxe & Glamour</title>
+  <link rel="stylesheet" href="/assets/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <h1 class="brand">Seu Carrinho</h1>
+    <div class="header-actions">
+      <button onclick="location.href='index.html'">Continuar Comprando</button>
+      <button id="cartButtonTop" onclick="location.href='carrinho.html'">
+        Carrinho <span id="cartCountTop" class="badge">0</span>
+      </button>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="cart-wrapper">
+      <table class="cart-table" aria-label="Tabela do Carrinho">
+        <thead>
+          <tr>
+            <th>Produto</th>
+            <th>Preço</th>
+            <th>Quantidade</th>
+            <th>Total</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody id="carrinhoTabela"></tbody>
+      </table>
+
+      <aside class="cart-summary">
+        <div class="summary-line">
+          <span>Subtotal</span>
+          <strong id="subtotal">R$ 0.00</strong>
+        </div>
+        <div class="summary-line">
+          <span>Frete (estimado)</span>
+          <strong id="frete">R$ 0.00</strong>
+        </div>
+        <div class="summary-line total">
+          <span>Total</span>
+          <strong id="valorTotal">R$ 0.00</strong>
+        </div>
+
+        <div class="actions">
+          <button id="finalizarPedido">Finalizar Pedido</button>
+          <button id="limparCarrinho" class="ghost">Limpar Carrinho</button>
+        </div>
+      </aside>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <small>By EvelynFerna • 2025</small>
+  </footer>
+
+  <!-- Toast -->
+  <div id="toast" class="toast oculto"></div>
+
+  <script src="/js/utils.js" defer></script>
+  <script src="/js/carrinho.js" defer></script>
+</body>
+</html>

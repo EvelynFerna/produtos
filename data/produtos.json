@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "nome": "Vestido Grazzye",
+    "descricao": "Vestido Longo de Festa Tomara que Caia Zibeline Elegante Grazzye Azul Royal",
+    "preco": 1648.37,
+    "peso": 1.5,
+    "imagem": "https://t-static.dafiti.com.br/QuRcKoYguHE6SjiBB5nbQiDJk1g=/fit-in/215x312/static.dafiti.com.br/p/cia-do-vestido-vestido-longo-de-festa-tomara-que-caia-zibeline-elegante-grazzye-azul-royal-4926-57675441-2-product.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Vestido Rosine",
+    "descricao": "Vestido Longo de Festa Madrinhas Ombro à Ombro Babados Coselet Rosine Verde Menta",
+    "preco": 1719.42,
+    "peso": 1.1,
+    "imagem": "https://t-static.dafiti.com.br/ky3oAvSk-STR4cXxq0ZjdHGBSyE=/fit-in/215x312/static.dafiti.com.br/p/cia-do-vestido-vestido-longo-de-festa-madrinhas-ombro-%25c3%25a0-ombro-babados-coselet-rosine-verde-menta-5433-32981441-2-product.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Vestido Marmety",
+    "descricao": "Vestido Longo de Festa Espartilho Corselete Alicinha com Fenda Sensual Mamety Marsala",
+    "preco": 1651.58,
+    "peso": 0.8,
+    "imagem": "https://t-static.dafiti.com.br/nlvD4z1UHeI7lUnmD9DdQGrm6wM=/fit-in/333x483/static.dafiti.com.br/p/cia-do-vestido-vestido-longo-de-festa-espartilho-corselete-alicinha-com-fenda-sensual-mamety-marsala-0766-71043341-1-product.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "Vestido Marsala",
+    "descricao": "Vestido Longo de Festa Corselete Estruturado Madrinhas Micro Tule EleganteMaddennia Marsala",
+    "preco": 1879.99,
+    "peso": 0.9,
+    "imagem": "https://t-static.dafiti.com.br/xnAo9mrckmdE0sgFsI4N6cP44LA=/fit-in/215x312/static.dafiti.com.br/p/cia-do-vestido-vestido-longo-de-festa-corselete-estruturado-madrinhas-micro-tule-elegantemaddennia-marsala-0642-94600341-2-product.jpg"
+  },
+  {
+    "id": 5,
+    "nome": "Vestido Dodeny",
+    "descricao": "Vestido Longo Noivas Noivado Casamento Civil um Ombro com Fenda Premium Elegante Dodeny Branco",
+    "preco": 1959.69,
+    "peso": 0.7,
+    "imagem": "https://t-static.dafiti.com.br/HmQWrpRVlKS4Dk-psPUm1-9VKPE=/fit-in/333x483/static.dafiti.com.br/p/cia-do-vestido-vestido-longo-noivas-noivado-casamento-civil-um-ombro-com-fenda-premium-elegante-dodeny-branco-1081-75788341-1-product.jpg"
+  },
+  {
+    "id": 6,
+    "nome": "Vestido Miesse",
+    "descricao": "Vestido Linho Preto Casual Gola Opcional",
+    "preco": 358.87,
+    "peso": 0.9,
+    "imagem": "https://t-static.dafiti.com.br/_5Rtl1ToD1h0N_nSVi9Kr7ySikM=/fit-in/333x483/static.dafiti.com.br/p/miesse-vestido-linho-preto-casual-gola-opcional-8929-81726441-1-product.jpg"
+  },
+  {
+    "id": 7,
+    "nome": "Vestido Semena",
+    "descricao": "Vestido Longo uma Manga Longa Fluity Com Fenda Samena Roxo",
+    "preco": 719.75,
+    "peso": 0.8,
+    "imagem": "https://t-static.dafiti.com.br/2-fLn0sfIiz2gkx1dQ6ql-92lW8=/fit-in/333x483/static.dafiti.com.br/p/cia-do-vestido-vestido-longo-uma-manga-longa-fluity-com-fenda-samena-roxo-8959-73565241-1-product.jpg"
+  },
+  {
+    "id": 8,
+    "nome": "Vestido Lonara",
+    "descricao": "Vestido Longo de Festa Madrinhas uma Manga Fluity Elegante Ionara Azul Serenity",
+    "preco": 750.43,
+    "peso": 0.4,
+    "imagem": "https://t-static.dafiti.com.br/OTa80r7gVaJz-n6eLAqhAJzsvnU=/fit-in/333x483/static.dafiti.com.br/p/cia-do-vestido-vestido-longo-de-festa-madrinhas-uma-manga-fluity-elegante-ionara-azul-serenity-0656-01980341-1-product.jpg"
+  },
+  {
+    "id": 9,
+    "nome": "Vestido Tiffany",
+    "descricao": "Vestido Longo de Festa Micro Tule Madrinhas Decote em V Palacci Verde Tiffany",
+    "preco": 2035.84,
+    "peso": 0.7,
+    "imagem": "https://t-static.dafiti.com.br/tV-ksWXZuB-BsurLqVGqI5phDmA=/fit-in/215x312/static.dafiti.com.br/p/cia-do-vestido-vestido-longo-de-festa-micro-tule-madrinhas-decote-em-v-palacci-verde-tiffany-1301-09388731-2-product.jpg"
+  },
+  {
+    "id": 10,
+    "nome": "Vestido Bela Preto",
+    "descricao": "Vestido Longo Amarração Decote em V abertura Lateral Festa Bela Preto",
+    "preco": 1258.12,
+    "peso": 0.9,
+    "imagem": "https://t-static.dafiti.com.br/uPeGsCehGHjGU0M7VcpUCxuPXxo=/fit-in/333x483/static.dafiti.com.br/p/cia-do-vestido-vestido-longo-amarra%25c3%25a7%25c3%25a3o-decote-em-v-abertura-lateral-festa-bela-preto-0452-40763831-1-product.jpg"
+  },
+  {
+    "id": 11,
+    "nome": "Vestido Hérty",
+    "descricao": "Vestido Longo de Festa Ombro à Ombro Sereia Zibeline Hérty Preto",
+    "preco": 1959.86,
+    "peso": 0.5,
+    "imagem": "https://t-static.dafiti.com.br/bmenxdb_osntCEw7j_1hsQtHW2I=/fit-in/333x483/static.dafiti.com.br/p/cia-do-vestido-vestido-longo-de-festa-ombro-%25c3%25a0-ombro-sereia-zibeline-h%25c3%25a9rty-preto-1596-57033441-1-product.jpg"
+  },
+  {
+    "id": 12,
+    "nome": "Vestido Miccyne",
+    "descricao": "Vestido Longo de Festa Decote em V Babados Elegante Miccyne Azul Royal",
+    "preco": 1547.21,
+    "peso": 0.3,
+    "imagem": "https://t-static.dafiti.com.br/9tDIa8-dLFf6EeDQEGKCkFi7u8Y=/fit-in/215x312/static.dafiti.com.br/p/cia-do-vestido-vestido-longo-de-festa-decote-em-v-babados-elegante-miccyne-azul-royal-0892-46207341-2-product.jpg"
+  }
+]

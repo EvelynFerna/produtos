@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Luxe & Glamour — Loja</title>
+  <link rel="stylesheet" href="/assets/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <h1 class="brand">Luxe &amp; Glamour</h1>
+    <div class="header-actions">
+      <input id="searchInput" placeholder="Pesquisar produtos..." aria-label="Pesquisar produtos" />
+      <button id="cartButton" onclick="location.href='carrinho.html'">
+        Carrinho <span id="cartCount" class="badge">0</span>
+      </button>
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="produtos-container" class="grid"></section>
+  </main>
+
+  <footer class="site-footer">
+    <small>By EvelynFerna • 2025</small>
+  </footer>
+
+  <!-- Modal de Detalhes -->
+  <div id="detalhes" class="modal oculto" role="dialog" aria-modal="true">
+    <div class="janela">
+      <header class="janela-top">
+        <h2 id="modalTitle">Detalhes do Produto</h2>
+        <button id="closeModal" aria-label="Fechar">✕</button>
+      </header>
+      <div id="conteudo" class="modal-body"></div>
+      <footer class="janela-foot">
+        <button id="addToCartBtn">Adicionar ao Carrinho</button>
+      </footer>
+    </div>
+  </div>
+
+  <!-- Toast -->
+  <div id="toast" class="toast oculto"></div>
+
+  <script src="./js/utils.js" defer></script>
+  <script src="./js/produtos.js" defer></script>
+  <script src="./js/carrinho.js" defer></script>
+</body>
+</html>
