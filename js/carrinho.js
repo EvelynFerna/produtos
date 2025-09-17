@@ -36,7 +36,7 @@ function renderCarrinho() {
     const linha = document.createElement('tr');
     const totalItem = item.preco * item.quantidade;
     subtotal += totalItem;
-    frete += item.peso * 5 * item.quantidade; // regra do frete
+    frete += item.peso * 5 * item.quantidade; 
 
     linha.innerHTML = `
       <td><img src="${item.imagem}" alt="${item.nome}"> ${item.nome}</td>

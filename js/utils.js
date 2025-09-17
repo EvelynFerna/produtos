@@ -1,6 +1,4 @@
-/* utils.js
- - funções utilitárias: formatar preço, storage e toast
-*/
+
 const STORAGE_KEYS = {
   CARRINHO: 'carrinho',
   PEDIDOS: 'pedidos'

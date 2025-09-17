@@ -64,7 +64,6 @@ function openDetails(id){
     </div>
   `;
 
-  // ⚠️ garante que não acumula listeners
   const newBtn = addBtn.cloneNode(true);
   addBtn.parentNode.replaceChild(newBtn, addBtn);
 
@@ -76,7 +75,6 @@ function openDetails(id){
   modal.classList.remove('oculto');
 }
 
-/* eventos modal e busca */
 document.addEventListener('click', (e)=>{
   if(e.target && e.target.id === 'closeModal') document.getElementById('detalhes').classList.add('oculto');
 });
